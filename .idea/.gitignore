@@ -1,0 +1,10 @@
+# Default ignored files
+/workspace.xml
+.idea/workspace.xml
+/build
+
+# dependencies
+/node_modules
+/.idea
+/.pnp
+.pnp.js
